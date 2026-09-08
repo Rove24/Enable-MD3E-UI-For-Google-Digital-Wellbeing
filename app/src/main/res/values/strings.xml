@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">启用数字健康新UI</string>
+    <string name="xposed_description">为低于Android 16 QPR1的设备启用Google数字健康的Material 3 Expressive界面</string>
+</resources>

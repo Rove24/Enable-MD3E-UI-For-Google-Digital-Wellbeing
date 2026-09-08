@@ -1,0 +1,8 @@
+name=启用数字健康新UI
+version=2.5
+versionCode=25
+author=Rove24
+description=为低于Android 16 QPR1的设备启用Google数字健康的Material 3 Expressive界面
+minApiVersion=102
+targetApiVersion=102
+staticScope=true
