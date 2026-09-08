@@ -5,6 +5,7 @@
 [![Package](https://img.shields.io/badge/Target-com.google.android.apps.wellbeing-blue.svg)](https://play.google.com/store/apps/details?id=com.google.android.apps.wellbeing)
 
 专为 Android 设备打造的 Xposed / LSPosed 模块，为低于 Android 16 QPR1 的设备提前开启并深度完善 **Google 数字健康 (Google Digital Wellbeing)** 的 **Material 3 Expressive (M3E)** 界面体系。
+<img width="8192" height="3556" alt="IMG_20260908_233903" src="https://github.com/user-attachments/assets/f8204773-5178-43fc-a623-bad5aed60bdb" />
 
 ---
 
